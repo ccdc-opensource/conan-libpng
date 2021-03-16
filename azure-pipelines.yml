@@ -12,3 +12,4 @@ extends:
     package_version: 1.6.37
     source_repository: public-conan-center
     destination_repository: ccdc-3rdparty-conan
+    use_release_zlib_profile: True
